@@ -1,2 +1,1 @@
-# 数据结构与算法
-自学数据结构和算法
+For self-study of data structures and algorithms
